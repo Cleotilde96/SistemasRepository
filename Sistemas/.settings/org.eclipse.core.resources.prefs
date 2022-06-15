@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebContent/Vista/CartaPorte/ArticulosCliente/Articulos.jsp=UTF-8
+encoding//WebContent/Vista/CartaPorte/ArticulosCliente/TablaArticulos.jsp=UTF-8
+encoding//WebContent/Vista/CartaPorte/Calculadora/Json.jsp=UTF-8
+encoding//WebContent/Vista/CartaPorte/ClaveProducto/Agregar.jsp=UTF-8
+encoding//WebContent/Vista/CartaPorte/ClaveProducto/Editar.jsp=UTF-8
+encoding//WebContent/Vista/CartaPorte/ClaveProducto/Tabla.jsp=UTF-8
+encoding//WebContent/Vista/CartaPorte/ClaveProducto/ViewClaveProducto.jsp=UTF-8
+encoding//WebContent/Vista/CartaPorte/Clientes/tablaClientes.jsp=UTF-8
+encoding//WebContent/Vista/CartaPorte/Impresion/FrmImpresion.jsp=UTF-8
+encoding//WebContent/Vista/CartaPorte/Impresion/printOK.jsp=UTF-8
+encoding//WebContent/Vista/CartaPorte/MenuControl/Menu.jsp=UTF-8
+encoding//WebContent/errorServlet.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//WebContent/login.jsp=UTF-8
+encoding//src/backend/service/TalonCartaPorteService.java=UTF-8
